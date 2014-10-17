@@ -1,0 +1,487 @@
+{
+    "type": "Ext.form.Panel",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "bodyPadding": null,
+        "container|align": "stretch",
+        "designer|userAlias": "etablissement",
+        "designer|userClassName": "Etablissement",
+        "height": 200,
+        "layout": "hbox",
+        "title": null,
+        "titleAlign": "center"
+    },
+    "name": "MyForm2",
+    "designerId": "eefc7f0f-35b1-4990-921d-cb3e65f0667f",
+    "viewControllerInstanceId": "8901b7f5-efa3-4988-ab87-64e607176a4a",
+    "viewModelInstanceId": "aa43b173-b639-467a-8567-73c1d628fe80",
+    "cn": [
+        {
+            "type": "Ext.container.Container",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "container|align": "stretch",
+                "designer|displayName": "Form",
+                "layout": "vbox",
+                "layout|flex": 1
+            },
+            "name": "MyContainer",
+            "designerId": "d4650a6e-95a6-4eb6-a384-b9401f73cf74",
+            "cn": [
+                {
+                    "type": "Ext.form.field.Text",
+                    "reference": {
+                        "name": "items",
+                        "type": "array"
+                    },
+                    "codeClass": null,
+                    "userConfig": {
+                        "emptyText": "A005",
+                        "fieldLabel": null,
+                        "layout|flex": 1,
+                        "margin": 0
+                    },
+                    "name": "MyTextField6",
+                    "designerId": "234cd36e-10a1-45f6-b1c5-ba7e9da2979d"
+                },
+                {
+                    "type": "Ext.form.field.Text",
+                    "reference": {
+                        "name": "items",
+                        "type": "array"
+                    },
+                    "codeClass": null,
+                    "userConfig": {
+                        "emptyText": "WHE16",
+                        "fieldLabel": null,
+                        "layout|flex": 1,
+                        "margin": 0
+                    },
+                    "name": "MyTextField7",
+                    "designerId": "73667ef7-0536-4d32-91a9-870d6ce51938"
+                },
+                {
+                    "type": "Ext.form.field.Text",
+                    "reference": {
+                        "name": "items",
+                        "type": "array"
+                    },
+                    "codeClass": null,
+                    "userConfig": {
+                        "emptyText": "WHE16",
+                        "fieldLabel": null,
+                        "layout|flex": 1,
+                        "margin": 0
+                    },
+                    "name": "MyTextField12",
+                    "designerId": "c8cbcc81-346b-4cd6-906f-1ddc256fc75c"
+                },
+                {
+                    "type": "Ext.form.field.Text",
+                    "reference": {
+                        "name": "items",
+                        "type": "array"
+                    },
+                    "codeClass": null,
+                    "userConfig": {
+                        "emptyText": "18052",
+                        "fieldLabel": null,
+                        "layout|flex": 1,
+                        "margin": 0
+                    },
+                    "name": "MyTextField8",
+                    "designerId": "67d61f4a-8019-48fc-9e5e-374727128c10"
+                },
+                {
+                    "type": "Ext.form.field.Text",
+                    "reference": {
+                        "name": "items",
+                        "type": "array"
+                    },
+                    "codeClass": null,
+                    "userConfig": {
+                        "emptyText": "18000",
+                        "fieldLabel": null,
+                        "layout|flex": 1,
+                        "margin": 0
+                    },
+                    "name": "MyTextField9",
+                    "designerId": "8efdb940-4df2-4ae6-bdf7-7e3db2cffcb7"
+                }
+            ]
+        },
+        {
+            "type": "Ext.container.Container",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "container|align": "stretch",
+                "designer|displayName": "Form",
+                "layout": "vbox",
+                "layout|flex": 3
+            },
+            "name": "MyContainer3",
+            "designerId": "9e15a29a-9b43-4041-9ba0-2eb969644bc0",
+            "cn": [
+                {
+                    "type": "Ext.container.Container",
+                    "reference": {
+                        "name": "items",
+                        "type": "array"
+                    },
+                    "codeClass": null,
+                    "userConfig": {
+                        "container|align": "stretch",
+                        "layout": "hbox",
+                        "layout|flex": 1
+                    },
+                    "name": "MyContainer4",
+                    "designerId": "4a6a3e0b-62a1-4aaa-a722-44a2e30e2908",
+                    "cn": [
+                        {
+                            "type": "Ext.form.field.Text",
+                            "reference": {
+                                "name": "items",
+                                "type": "array"
+                            },
+                            "codeClass": null,
+                            "userConfig": {
+                                "emptyText": "Ville",
+                                "fieldLabel": null,
+                                "layout|flex": 2
+                            },
+                            "name": "MyTextField10",
+                            "designerId": "b8b855f6-ce45-4b13-b726-cf31db9f19e5"
+                        },
+                        {
+                            "type": "Ext.form.field.Text",
+                            "reference": {
+                                "name": "items",
+                                "type": "array"
+                            },
+                            "codeClass": null,
+                            "userConfig": {
+                                "emptyText": "CP",
+                                "fieldLabel": null,
+                                "layout|flex": 1
+                            },
+                            "name": "MyTextField11",
+                            "designerId": "7b5351f7-3459-4416-a7a8-a17ae9dc0354"
+                        }
+                    ]
+                },
+                {
+                    "type": "Ext.container.Container",
+                    "reference": {
+                        "name": "items",
+                        "type": "array"
+                    },
+                    "codeClass": null,
+                    "userConfig": {
+                        "container|align": "stretch",
+                        "layout": "hbox",
+                        "layout|flex": 1
+                    },
+                    "name": "MyContainer5",
+                    "designerId": "9fda45ce-9c57-422c-a23f-5ebfcfc84e9b",
+                    "cn": [
+                        {
+                            "type": "Ext.form.field.Text",
+                            "reference": {
+                                "name": "items",
+                                "type": "array"
+                            },
+                            "codeClass": null,
+                            "userConfig": {
+                                "emptyText": "N° Rue",
+                                "fieldLabel": null,
+                                "layout|flex": 1
+                            },
+                            "name": "MyTextField10",
+                            "designerId": "b32be5d1-6de8-44ec-9bc3-3439fe9ef4bc"
+                        },
+                        {
+                            "type": "Ext.form.field.Text",
+                            "reference": {
+                                "name": "items",
+                                "type": "array"
+                            },
+                            "codeClass": null,
+                            "userConfig": {
+                                "emptyText": "BTQ",
+                                "fieldLabel": null,
+                                "layout|flex": 1
+                            },
+                            "name": "MyTextField13",
+                            "designerId": "2c058ae8-ce2f-4c73-955e-af829fd9da10"
+                        },
+                        {
+                            "type": "Ext.form.field.Text",
+                            "reference": {
+                                "name": "items",
+                                "type": "array"
+                            },
+                            "codeClass": null,
+                            "userConfig": {
+                                "emptyText": "Nom de la rue",
+                                "fieldLabel": null,
+                                "layout|flex": 4
+                            },
+                            "name": "MyTextField11",
+                            "designerId": "49663cab-33f8-440a-a42f-71ad16e29464"
+                        }
+                    ]
+                },
+                {
+                    "type": "Ext.container.Container",
+                    "reference": {
+                        "name": "items",
+                        "type": "array"
+                    },
+                    "codeClass": null,
+                    "userConfig": {
+                        "container|align": "stretch",
+                        "layout": "hbox",
+                        "layout|flex": 1
+                    },
+                    "name": "MyContainer6",
+                    "designerId": "22b396e1-4496-46b2-88f2-7d057a25ac5b",
+                    "cn": [
+                        {
+                            "type": "Ext.form.field.Text",
+                            "reference": {
+                                "name": "items",
+                                "type": "array"
+                            },
+                            "codeClass": null,
+                            "userConfig": {
+                                "emptyText": "Complément d'adresse",
+                                "fieldLabel": null,
+                                "layout|flex": 1
+                            },
+                            "name": "MyTextField10",
+                            "designerId": "331cea7a-e02c-4134-8c24-2a38dfa24b7d"
+                        }
+                    ]
+                },
+                {
+                    "type": "Ext.container.Container",
+                    "reference": {
+                        "name": "items",
+                        "type": "array"
+                    },
+                    "codeClass": null,
+                    "userConfig": {
+                        "container|align": "stretch",
+                        "layout": "hbox",
+                        "layout|flex": 1
+                    },
+                    "name": "MyContainer7",
+                    "designerId": "ac7bd575-ecb2-419d-89d1-2d3672f31682",
+                    "cn": [
+                        {
+                            "type": "Ext.form.field.Text",
+                            "reference": {
+                                "name": "items",
+                                "type": "array"
+                            },
+                            "codeClass": null,
+                            "userConfig": {
+                                "emptyText": "Ville",
+                                "fieldLabel": null,
+                                "layout|flex": 1
+                            },
+                            "name": "MyTextField11",
+                            "designerId": "edf39d6b-b1d9-4510-a76c-99de63a4d6e7"
+                        }
+                    ]
+                },
+                {
+                    "type": "Ext.container.Container",
+                    "reference": {
+                        "name": "items",
+                        "type": "array"
+                    },
+                    "codeClass": null,
+                    "userConfig": {
+                        "container|align": "stretch",
+                        "layout": "hbox",
+                        "layout|flex": 1
+                    },
+                    "name": "MyContainer8",
+                    "designerId": "d992d971-4ede-413b-b668-345989bf40cd",
+                    "cn": [
+                        {
+                            "type": "Ext.form.field.Text",
+                            "reference": {
+                                "name": "items",
+                                "type": "array"
+                            },
+                            "codeClass": null,
+                            "userConfig": {
+                                "emptyText": "Cedex + N°",
+                                "fieldLabel": null,
+                                "layout|flex": 1
+                            },
+                            "name": "MyTextField10",
+                            "designerId": "7b5b9442-7586-458a-a0d4-c96d3e74b8db"
+                        },
+                        {
+                            "type": "Ext.form.field.Text",
+                            "reference": {
+                                "name": "items",
+                                "type": "array"
+                            },
+                            "codeClass": null,
+                            "userConfig": {
+                                "emptyText": "N° Lot",
+                                "fieldLabel": null,
+                                "layout|flex": 1
+                            },
+                            "name": "MyTextField14",
+                            "designerId": "ff0544f4-08a1-4ad6-8384-aec755854588"
+                        },
+                        {
+                            "type": "Ext.form.field.Text",
+                            "reference": {
+                                "name": "items",
+                                "type": "array"
+                            },
+                            "codeClass": null,
+                            "userConfig": {
+                                "emptyText": "Bât",
+                                "fieldLabel": null,
+                                "layout|flex": 1
+                            },
+                            "name": "MyTextField11",
+                            "designerId": "e3400120-ae61-40f5-872c-e7275f6c4bb5"
+                        },
+                        {
+                            "type": "Ext.form.field.Text",
+                            "reference": {
+                                "name": "items",
+                                "type": "array"
+                            },
+                            "codeClass": null,
+                            "userConfig": {
+                                "emptyText": "Esc.",
+                                "fieldLabel": null,
+                                "layout|flex": 1
+                            },
+                            "name": "MyTextField15",
+                            "designerId": "3bb034ca-ced5-44e4-8e00-a0b5c50ed392"
+                        },
+                        {
+                            "type": "Ext.form.field.Text",
+                            "reference": {
+                                "name": "items",
+                                "type": "array"
+                            },
+                            "codeClass": null,
+                            "userConfig": {
+                                "emptyText": "6",
+                                "fieldLabel": null,
+                                "layout|flex": 1
+                            },
+                            "name": "MyTextField16",
+                            "designerId": "606881e3-f1ce-40db-9d8d-815868da20f4"
+                        },
+                        {
+                            "type": "Ext.form.field.Text",
+                            "reference": {
+                                "name": "items",
+                                "type": "array"
+                            },
+                            "codeClass": null,
+                            "userConfig": {
+                                "emptyText": "Appart",
+                                "fieldLabel": null,
+                                "layout|flex": 1
+                            },
+                            "name": "MyTextField17",
+                            "designerId": "65dc3536-fd09-4874-af08-34b1d35a6107"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "Ext.container.Container",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "contentEl": null,
+                "designer|displayName": "Maps",
+                "html": [
+                    "Google maps"
+                ],
+                "layout|flex": 4
+            },
+            "name": "MyContainer1",
+            "designerId": "f5833a86-b468-4f29-836e-9c0dae4f9093"
+        },
+        {
+            "type": "Ext.container.Container",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "container|align": "stretch",
+                "container|padding": 5,
+                "designer|displayName": "Maps button",
+                "layout": "vbox",
+                "layout|flex": 1
+            },
+            "name": "MyContainer2",
+            "designerId": "d9efe08e-aaa1-4c2d-910b-f85b51e12b1d",
+            "cn": [
+                {
+                    "type": "Ext.button.Button",
+                    "reference": {
+                        "name": "items",
+                        "type": "array"
+                    },
+                    "codeClass": null,
+                    "userConfig": {
+                        "layout|flex": 1,
+                        "margin": 5,
+                        "text": "Rue"
+                    },
+                    "name": "MyButton5",
+                    "designerId": "21ed7092-b8c7-4a16-aa7f-4776b0e60d27"
+                },
+                {
+                    "type": "Ext.button.Button",
+                    "reference": {
+                        "name": "items",
+                        "type": "array"
+                    },
+                    "codeClass": null,
+                    "userConfig": {
+                        "layout|flex": 1,
+                        "margin": 5,
+                        "text": "Carte"
+                    },
+                    "name": "MyButton6",
+                    "designerId": "1aed5f43-f6d6-4bbe-9340-3db489b3b0f7"
+                }
+            ]
+        }
+    ]
+}

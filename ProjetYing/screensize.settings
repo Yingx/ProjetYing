@@ -1,0 +1,11 @@
+{
+    "profiles": [
+        {
+            "name": "Etablissement",
+            "width": 800,
+            "height": 400,
+            "builtIn": false,
+            "fw": "ext"
+        }
+    ]
+}

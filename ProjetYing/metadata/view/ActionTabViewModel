@@ -1,0 +1,13 @@
+{
+    "type": "Ext.app.ViewModel",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|userAlias": "actiontab",
+        "designer|userClassName": "ActionTabViewModel"
+    },
+    "designerId": "c90e9361-5f76-4ef9-a51b-4cf38ddf0ed8"
+}

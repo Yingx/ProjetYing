@@ -1,0 +1,13 @@
+{
+    "type": "Ext.app.ViewController",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|userAlias": "battab",
+        "designer|userClassName": "BatTabViewController"
+    },
+    "designerId": "2a2a92c8-11a1-4dee-8b8a-92a9278a3520"
+}

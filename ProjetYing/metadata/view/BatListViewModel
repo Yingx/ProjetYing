@@ -1,0 +1,13 @@
+{
+    "type": "Ext.app.ViewModel",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|userAlias": "batlist",
+        "designer|userClassName": "BatListViewModel"
+    },
+    "designerId": "bf1ae0fe-36d6-45c5-b037-bdc279b75afb"
+}

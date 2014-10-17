@@ -1,0 +1,13 @@
+{
+    "type": "Ext.app.ViewController",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|userAlias": "equipementtab",
+        "designer|userClassName": "EquipementTabViewController"
+    },
+    "designerId": "de4c3751-3960-4c20-8df9-c9e00823a23c"
+}

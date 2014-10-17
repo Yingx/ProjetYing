@@ -1,0 +1,508 @@
+{
+    "type": "Ext.form.Panel",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "container|align": "stretch",
+        "container|padding": 2,
+        "designer|userAlias": "infogentab",
+        "designer|userClassName": "InfoGenTab",
+        "layout": "hbox",
+        "title": "Infos générales"
+    },
+    "name": "MyForm4",
+    "designerId": "df044dbb-acc2-4b56-9ded-0557c06b64ba",
+    "viewControllerInstanceId": "a917992c-4ad9-4a0e-8c97-5ed93f629a66",
+    "viewModelInstanceId": "d99e14e1-b682-4b4a-9a64-d7a73ea24a00",
+    "cn": [
+        {
+            "type": "Ext.panel.Panel",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "container|align": "stretch",
+                "defaults": [
+                    "{",
+                    "    margin : '0 0 5 0'",
+                    "}"
+                ],
+                "designer|displayName": "left",
+                "designer|uiInterfaceName": "default-framed",
+                "frame": true,
+                "layout": "vbox",
+                "layout|flex": 4,
+                "margin": 2,
+                "title": "Informations"
+            },
+            "name": "MyPanel11",
+            "designerId": "a63c48e5-5583-46aa-9961-6d0c66f24832",
+            "cn": [
+                {
+                    "type": "Ext.form.field.Text",
+                    "reference": {
+                        "name": "items",
+                        "type": "array"
+                    },
+                    "codeClass": null,
+                    "userConfig": {
+                        "fieldLabel": "Au RCS de",
+                        "layout|flex": 1,
+                        "margin": null
+                    },
+                    "name": "MyTextField18",
+                    "designerId": "eacc5802-085a-4577-9fd2-86fae1926e89"
+                },
+                {
+                    "type": "Ext.container.Container",
+                    "reference": {
+                        "name": "items",
+                        "type": "array"
+                    },
+                    "codeClass": null,
+                    "userConfig": {
+                        "container|align": "stretch",
+                        "layout": "hbox",
+                        "layout|flex": 1
+                    },
+                    "name": "MyContainer14",
+                    "designerId": "7c5ae2c9-e793-46d4-8234-9cbc50b9d8c8",
+                    "cn": [
+                        {
+                            "type": "Ext.form.field.Text",
+                            "reference": {
+                                "name": "items",
+                                "type": "array"
+                            },
+                            "codeClass": null,
+                            "userConfig": {
+                                "fieldLabel": "Immatriculé le",
+                                "layout|flex": 1
+                            },
+                            "name": "MyTextField19",
+                            "designerId": "94abe71c-ff5d-4dbe-8122-a744d79c2538"
+                        },
+                        {
+                            "type": "Ext.form.field.Text",
+                            "reference": {
+                                "name": "items",
+                                "type": "array"
+                            },
+                            "codeClass": null,
+                            "userConfig": {
+                                "fieldLabel": "Radié le",
+                                "labelWidth": 70,
+                                "layout|flex": 0.8,
+                                "margin": "0 0 0 5"
+                            },
+                            "name": "MyTextField20",
+                            "designerId": "254c07f1-1818-4313-9c46-0f6106da2272"
+                        }
+                    ]
+                },
+                {
+                    "type": "Ext.container.Container",
+                    "reference": {
+                        "name": "items",
+                        "type": "array"
+                    },
+                    "codeClass": null,
+                    "userConfig": {
+                        "container|align": "stretch",
+                        "layout": "hbox",
+                        "layout|flex": 1
+                    },
+                    "name": "MyContainer15",
+                    "designerId": "49ae9087-e1aa-4852-a933-a2b4a42e7750",
+                    "cn": [
+                        {
+                            "type": "Ext.form.field.Text",
+                            "reference": {
+                                "name": "items",
+                                "type": "array"
+                            },
+                            "codeClass": null,
+                            "userConfig": {
+                                "fieldLabel": "Exploité du",
+                                "layout|flex": 1
+                            },
+                            "name": "MyTextField19",
+                            "designerId": "f9c32605-1728-4433-9449-74da666d3163"
+                        },
+                        {
+                            "type": "Ext.form.field.Text",
+                            "reference": {
+                                "name": "items",
+                                "type": "array"
+                            },
+                            "codeClass": null,
+                            "userConfig": {
+                                "fieldLabel": "Jusqu'au",
+                                "labelWidth": 70,
+                                "layout|flex": 0.8,
+                                "margin": "0 0 0 5"
+                            },
+                            "name": "MyTextField20",
+                            "designerId": "5712a846-8df0-44e0-b043-306648819bd2"
+                        }
+                    ]
+                },
+                {
+                    "type": "Ext.form.field.Text",
+                    "reference": {
+                        "name": "items",
+                        "type": "array"
+                    },
+                    "codeClass": null,
+                    "userConfig": {
+                        "fieldLabel": "Origine",
+                        "layout|flex": 1,
+                        "margin": null
+                    },
+                    "name": "MyTextField21",
+                    "designerId": "eb74515b-e30e-424e-ba59-e7a0cb286223"
+                },
+                {
+                    "type": "Ext.form.field.Text",
+                    "reference": {
+                        "name": "items",
+                        "type": "array"
+                    },
+                    "codeClass": null,
+                    "userConfig": {
+                        "fieldLabel": "Nace",
+                        "layout|flex": 1,
+                        "margin": null
+                    },
+                    "name": "MyTextField22",
+                    "designerId": "10051431-304d-426d-baeb-7aa1aaa82199"
+                },
+                {
+                    "type": "Ext.container.Container",
+                    "reference": {
+                        "name": "items",
+                        "type": "array"
+                    },
+                    "codeClass": null,
+                    "userConfig": {
+                        "container|align": "stretch",
+                        "layout": "hbox",
+                        "layout|flex": 1
+                    },
+                    "name": "MyContainer16",
+                    "designerId": "de6f4e0c-e96a-4614-a516-639842f9e924",
+                    "cn": [
+                        {
+                            "type": "Ext.form.field.Text",
+                            "reference": {
+                                "name": "items",
+                                "type": "array"
+                            },
+                            "codeClass": null,
+                            "userConfig": {
+                                "emptyText": "Email",
+                                "fieldLabel": null,
+                                "layout|flex": 1
+                            },
+                            "name": "MyTextField19",
+                            "designerId": "6f69343e-4c3c-4de7-aa1a-994b4361dd27"
+                        },
+                        {
+                            "type": "Ext.form.field.Text",
+                            "reference": {
+                                "name": "items",
+                                "type": "array"
+                            },
+                            "codeClass": null,
+                            "userConfig": {
+                                "emptyText": "Tél. fixe",
+                                "fieldLabel": null,
+                                "layout|flex": 1,
+                                "margin": "0 0 0 5"
+                            },
+                            "name": "MyTextField20",
+                            "designerId": "2cd95611-fb3f-47be-a137-c58ad2da55af"
+                        }
+                    ]
+                },
+                {
+                    "type": "Ext.container.Container",
+                    "reference": {
+                        "name": "items",
+                        "type": "array"
+                    },
+                    "codeClass": null,
+                    "userConfig": {
+                        "container|align": "stretch",
+                        "layout": "hbox",
+                        "layout|flex": 1
+                    },
+                    "name": "MyContainer17",
+                    "designerId": "b529fef6-9315-4485-b8a9-b209d7254529",
+                    "cn": [
+                        {
+                            "type": "Ext.form.field.Text",
+                            "reference": {
+                                "name": "items",
+                                "type": "array"
+                            },
+                            "codeClass": null,
+                            "userConfig": {
+                                "emptyText": "Raccourci interne",
+                                "fieldLabel": null,
+                                "layout|flex": 1
+                            },
+                            "name": "MyTextField19",
+                            "designerId": "c6750b1d-9a45-4c97-a1e6-cf0c978afffa"
+                        },
+                        {
+                            "type": "Ext.form.field.Text",
+                            "reference": {
+                                "name": "items",
+                                "type": "array"
+                            },
+                            "codeClass": null,
+                            "userConfig": {
+                                "emptyText": "Tél. portable",
+                                "fieldLabel": null,
+                                "layout|flex": 1,
+                                "margin": "0 0 0 5"
+                            },
+                            "name": "MyTextField20",
+                            "designerId": "0ebfb9f4-c5b5-42bf-8a69-314ecb933578"
+                        }
+                    ]
+                },
+                {
+                    "type": "Ext.form.field.Text",
+                    "reference": {
+                        "name": "items",
+                        "type": "array"
+                    },
+                    "codeClass": null,
+                    "userConfig": {
+                        "fieldLabel": "Type etablissement",
+                        "labelWidth": 130,
+                        "layout|flex": 1,
+                        "margin": null
+                    },
+                    "name": "MyTextField23",
+                    "designerId": "4878cf57-a23b-4cdd-b673-7b87112db4e8"
+                },
+                {
+                    "type": "Ext.form.field.Text",
+                    "reference": {
+                        "name": "items",
+                        "type": "array"
+                    },
+                    "codeClass": null,
+                    "userConfig": {
+                        "fieldLabel": "Catégorie ERP",
+                        "labelWidth": 130,
+                        "layout|flex": 1,
+                        "margin": null
+                    },
+                    "name": "MyTextField24",
+                    "designerId": "ff12c94b-8583-43c0-a01e-deb998d0de7c"
+                },
+                {
+                    "type": "Ext.form.field.Text",
+                    "reference": {
+                        "name": "items",
+                        "type": "array"
+                    },
+                    "codeClass": null,
+                    "userConfig": {
+                        "fieldLabel": "Sous catégorie ERP",
+                        "labelWidth": 130,
+                        "layout|flex": 1,
+                        "margin": null
+                    },
+                    "name": "MyTextField25",
+                    "designerId": "ae7df9d3-731b-4ce1-a281-cca71cf3f777"
+                },
+                {
+                    "type": "Ext.container.Container",
+                    "reference": {
+                        "name": "items",
+                        "type": "array"
+                    },
+                    "codeClass": null,
+                    "userConfig": {
+                        "container|align": "stretch",
+                        "layout": "hbox",
+                        "layout|flex": 1
+                    },
+                    "name": "MyContainer18",
+                    "designerId": "56fbe3a1-91c8-4104-924e-079d0871e275",
+                    "cn": [
+                        {
+                            "type": "Ext.form.field.Text",
+                            "reference": {
+                                "name": "items",
+                                "type": "array"
+                            },
+                            "codeClass": null,
+                            "userConfig": {
+                                "fieldLabel": "Nombre de salariés",
+                                "labelWidth": 130,
+                                "layout|flex": 1
+                            },
+                            "name": "MyTextField19",
+                            "designerId": "3f337f82-bb92-46c0-9714-3724609a51ff"
+                        },
+                        {
+                            "type": "Ext.form.field.Text",
+                            "reference": {
+                                "name": "items",
+                                "type": "array"
+                            },
+                            "codeClass": null,
+                            "userConfig": {
+                                "fieldLabel": "Nombre de clients",
+                                "labelWidth": 130,
+                                "layout|flex": 1,
+                                "margin": "0 0 0 5"
+                            },
+                            "name": "MyTextField20",
+                            "designerId": "afceb484-de5e-4429-93c3-7779ca46a88a"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "Ext.container.Container",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "container|align": "stretch",
+                "designer|displayName": "center",
+                "layout": "vbox",
+                "layout|flex": 1
+            },
+            "name": "MyContainer12",
+            "designerId": "1a53c9b8-fa13-4c8a-a112-13afecbea76e",
+            "cn": [
+                {
+                    "type": "Ext.panel.Panel",
+                    "reference": {
+                        "name": "items",
+                        "type": "array"
+                    },
+                    "codeClass": null,
+                    "userConfig": {
+                        "layout|flex": 1,
+                        "margin": 2,
+                        "title": "Localisé en"
+                    },
+                    "name": "MyPanel",
+                    "designerId": "9cb6dea7-d090-408c-b497-fa65dc00c31b"
+                },
+                {
+                    "type": "Ext.panel.Panel",
+                    "reference": {
+                        "name": "items",
+                        "type": "array"
+                    },
+                    "codeClass": null,
+                    "userConfig": {
+                        "layout|flex": 1,
+                        "margin": 2,
+                        "title": "Régions"
+                    },
+                    "name": "MyPanel7",
+                    "designerId": "43a0aa9a-f203-4090-b275-b5b81bb9bf42"
+                }
+            ]
+        },
+        {
+            "type": "Ext.container.Container",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "container|align": "stretch",
+                "designer|displayName": "right",
+                "layout": "vbox",
+                "layout|flex": 2
+            },
+            "name": "MyContainer13",
+            "designerId": "cb6f245e-e864-407c-8c86-f8223cb4f080",
+            "cn": [
+                {
+                    "type": "Ext.grid.Panel",
+                    "reference": {
+                        "name": "items",
+                        "type": "array"
+                    },
+                    "codeClass": null,
+                    "userConfig": {
+                        "layout|flex": 1,
+                        "margin": 2,
+                        "title": "Horaires d'ouverture"
+                    },
+                    "name": "MyGridPanel",
+                    "designerId": "14e80805-4cb7-46ca-b68c-23623997dbc2",
+                    "cn": [
+                        {
+                            "type": "Ext.grid.column.Column",
+                            "reference": {
+                                "name": "columns",
+                                "type": "array"
+                            },
+                            "codeClass": null,
+                            "userConfig": {
+                                "dataIndex": "string",
+                                "flex": 1,
+                                "text": "Jour"
+                            },
+                            "name": "MyColumn",
+                            "designerId": "ffad508c-9d34-443d-9081-009b57f569f0"
+                        },
+                        {
+                            "type": "Ext.grid.column.Column",
+                            "reference": {
+                                "name": "columns",
+                                "type": "array"
+                            },
+                            "codeClass": null,
+                            "userConfig": {
+                                "dataIndex": "number",
+                                "flex": 1,
+                                "text": "Matin"
+                            },
+                            "name": "MyColumn1",
+                            "designerId": "e00c535c-21f6-4294-8f63-739dacff7218"
+                        },
+                        {
+                            "type": "Ext.grid.column.Column",
+                            "reference": {
+                                "name": "columns",
+                                "type": "array"
+                            },
+                            "codeClass": null,
+                            "userConfig": {
+                                "dataIndex": "date",
+                                "flex": 1,
+                                "text": "Après midi"
+                            },
+                            "name": "MyColumn2",
+                            "designerId": "4435a09c-7bef-43c2-bd19-ac167c14b87b"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

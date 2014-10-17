@@ -1,0 +1,17 @@
+{
+    "type": "Ext.panel.Panel",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|userAlias": "equipementtab",
+        "designer|userClassName": "EquipementTab",
+        "title": "Equipements"
+    },
+    "name": "MyPanel9",
+    "designerId": "132c7397-8083-404c-b827-ff8537431021",
+    "viewControllerInstanceId": "de4c3751-3960-4c20-8df9-c9e00823a23c",
+    "viewModelInstanceId": "e05411e3-3e80-4b88-a891-8e98a5a9c8d6"
+}

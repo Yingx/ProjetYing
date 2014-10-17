@@ -1,0 +1,27 @@
+{
+    "type": "Ext.app.Application",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "name": "AppBat",
+        "requires": [
+            "Ext.window.MessageBox"
+        ],
+        "views": [
+            "MainView",
+            "LoginForm",
+            "RegisterForm",
+            "InfoGenTab",
+            "Etablissement",
+            "BatList",
+            "BatTab",
+            "EquipementTab",
+            "ActionTab"
+        ]
+    },
+    "name": "Application",
+    "designerId": "application"
+}

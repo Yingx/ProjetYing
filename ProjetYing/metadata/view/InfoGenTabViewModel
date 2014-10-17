@@ -1,0 +1,13 @@
+{
+    "type": "Ext.app.ViewModel",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|userAlias": "infogentab",
+        "designer|userClassName": "InfoGenTabViewModel"
+    },
+    "designerId": "d99e14e1-b682-4b4a-9a64-d7a73ea24a00"
+}

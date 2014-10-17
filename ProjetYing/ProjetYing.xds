@@ -1,0 +1,64 @@
+{
+    "name": "ProjetYing",
+    "settings": {
+        "cmd": {
+            "license": "commercial"
+        },
+        "canvasControls": {
+            "viewportSize": {
+                "name": "Medium",
+                "builtIn": true,
+                "height": 768,
+                "width": 1024
+            }
+        },
+        "urlPrefix": "",
+        "exportPath": ""
+    },
+    "xdsVersion": "3.1.0",
+    "xdsBuild": 1934,
+    "schemaVersion": 1,
+    "upgradeVersion": 300000000007,
+    "framework": "ext50",
+    "viewOrderMap": {
+        "view": [
+            "7372b4da-6a89-4a02-a378-f8fe5e5b5b3d",
+            "98320146-0539-4d0f-9a88-857270e1358a",
+            "8c068b86-ec11-4fee-bf64-ad89c0d92ad7",
+            "af0e876a-ec58-4697-bddc-8668f44977fc",
+            "3573b49e-ae69-4c2f-be4a-fdc249c5e4e1",
+            "c48c6db8-c8d8-4c7d-b891-446c12522ce2",
+            "d5160550-a745-4763-910a-cd2a336c487c",
+            "af0668f1-891f-4b52-905d-bcdecd54ed6d",
+            "9727f78e-d27a-47e6-b614-1bbf508f5e97",
+            "df044dbb-acc2-4b56-9ded-0557c06b64ba",
+            "d99e14e1-b682-4b4a-9a64-d7a73ea24a00",
+            "a917992c-4ad9-4a0e-8c97-5ed93f629a66",
+            "eefc7f0f-35b1-4990-921d-cb3e65f0667f",
+            "aa43b173-b639-467a-8567-73c1d628fe80",
+            "8901b7f5-efa3-4988-ab87-64e607176a4a",
+            "bf627ed6-4267-4222-8f5d-62925297ccb1",
+            "bf1ae0fe-36d6-45c5-b037-bdc279b75afb",
+            "f45da661-a8d5-4af9-b68e-d380598eb1dc",
+            "ba7edd38-fa63-407c-9b99-5a761bf8f126",
+            "0618d155-fa36-4131-9218-13cb97dd939d",
+            "2a2a92c8-11a1-4dee-8b8a-92a9278a3520",
+            "132c7397-8083-404c-b827-ff8537431021",
+            "e05411e3-3e80-4b88-a891-8e98a5a9c8d6",
+            "de4c3751-3960-4c20-8df9-c9e00823a23c",
+            "d0ea42cb-b25c-4e1f-bf62-68ae0b536b26",
+            "c90e9361-5f76-4ef9-a51b-4cf38ddf0ed8",
+            "9b524ce3-ae0b-4ac4-9f3b-961807fb9144"
+        ],
+        "store": [],
+        "controller": [],
+        "model": [],
+        "resource": [
+            "21d39171-39d0-4171-bbaf-901980656599",
+            "bb3f0b76-5e23-4ec3-9dc3-ea4a02ff9e19"
+        ],
+        "app": [
+            "application"
+        ]
+    }
+}

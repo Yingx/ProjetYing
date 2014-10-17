@@ -1,0 +1,17 @@
+{
+    "type": "Ext.panel.Panel",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|userAlias": "actiontab",
+        "designer|userClassName": "ActionTab",
+        "title": "Actions"
+    },
+    "name": "MyPanel10",
+    "designerId": "d0ea42cb-b25c-4e1f-bf62-68ae0b536b26",
+    "viewControllerInstanceId": "9b524ce3-ae0b-4ac4-9f3b-961807fb9144",
+    "viewModelInstanceId": "c90e9361-5f76-4ef9-a51b-4cf38ddf0ed8"
+}

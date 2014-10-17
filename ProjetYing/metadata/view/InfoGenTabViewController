@@ -1,0 +1,13 @@
+{
+    "type": "Ext.app.ViewController",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|userAlias": "infogentab",
+        "designer|userClassName": "InfoGenTabViewController"
+    },
+    "designerId": "a917992c-4ad9-4a0e-8c97-5ed93f629a66"
+}
